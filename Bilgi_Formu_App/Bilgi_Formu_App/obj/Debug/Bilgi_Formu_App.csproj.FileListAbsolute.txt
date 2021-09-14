@@ -1,0 +1,9 @@
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\bin\Debug\Bilgi_Formu_App.exe.config
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\bin\Debug\Bilgi_Formu_App.exe
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\bin\Debug\Bilgi_Formu_App.pdb
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.csprojResolveAssemblyReference.cache
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.Form1.resources
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.Properties.Resources.resources
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.csproj.GenerateResource.Cache
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.exe
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\Bilgi_Formu_App\Bilgi_Formu_App\obj\Debug\Bilgi_Formu_App.pdb
